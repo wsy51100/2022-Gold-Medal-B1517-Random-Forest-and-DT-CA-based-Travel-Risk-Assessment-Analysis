@@ -1,4 +1,4 @@
-Here's the source code display for the B1517 team's work.
+Here's the source code display for the ESRI B1517 team's work.
 
 Winning Formula Page：https://contest.geoscene.cn/zp2022?page=2&per-page=15
 
