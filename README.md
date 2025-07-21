@@ -13,3 +13,6 @@ More details about the projects: https://mp.weixin.qq.com/s/_CX0UZ5PmPzmuD2FMFDe
 小组成员：郑乐然 吴淑仪 李佳媛 栾鹿鸣
 
 指导老师：胡碧松
+
+如果有任何疑问欢迎邮件讨论：
+吴淑仪： s84swu@uni-bonn.de
